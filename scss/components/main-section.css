@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.main-section {
+  background-image: url(../images/фон\ \(1\).svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+  aspect-ratio: 10/9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 100px 0;
+}/*# sourceMappingURL=main-section.css.map */
